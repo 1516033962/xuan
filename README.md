@@ -1,6 +1,5 @@
-# xuan
-Xuan Framework of Auto Vehicle
-炫彩汽车框架
+# Xuan Framework of Auto Vehicle
+# 炫彩汽车框架
 
 ### Image Understanding
 Full view camera
